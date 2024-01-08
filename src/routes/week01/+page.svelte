@@ -9,6 +9,8 @@
 
 <img src="./week01.png" alt="Week 01" />
 
+<p><a href="https://github.com/CodyPerakslis/projects-2024/tree/625eacc17204edf1c1cdc4d00768df7fff9f6558">The code at this time</a></p>
+
 <style>
     img {
         width: 80%;
